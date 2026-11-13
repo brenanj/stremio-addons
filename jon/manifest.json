@@ -1,0 +1,35 @@
+{
+  "id": "com.jon.rewind",
+  "version": "1.0.0",
+  "name": "Jon's Rewind",
+  "description": "Childhood favorites worth a rewatch, plus picks I never got around to.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "jon-rewatch-movies",
+      "name": "Jon's Rewind: Movies"
+    },
+    {
+      "type": "series",
+      "id": "jon-rewatch-shows",
+      "name": "Jon's Rewind: Shows"
+    },
+    {
+      "type": "movie",
+      "id": "jon-discover-movies",
+      "name": "Never Saw It: Movies"
+    },
+    {
+      "type": "series",
+      "id": "jon-discover-shows",
+      "name": "Never Saw It: Shows"
+    }
+  ]
+}

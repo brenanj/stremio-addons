@@ -1,0 +1,134 @@
+ok       movie  Home Alone (1990) -> Home Alone [tt0099785] 1990
+ok       movie  Hook (1991) -> Hook [tt0102057] 1991
+ok       movie  Terminator 2: Judgment Day (1991) -> Terminator 2: Judgment Day [tt0103064] 1991
+ok       movie  Jurassic Park (1993) -> Jurassic Park [tt0107290] 1993
+ok       movie  Hocus Pocus (1993) -> Hocus Pocus [tt0107120] 1993
+ok       movie  Wallace & Gromit: The Wrong Trousers (1993) -> Wallace & Gromit: The Aardman Collection [tt33088125] 1994
+ok       movie  The Lion King (1994) -> The Lion King [tt0110357] 1994
+ok       movie  The Mask (1994) -> The Mask [tt0110475] 1994
+ok       movie  Toy Story (1995) -> Toy Story [tt0114709] 1995
+ok       movie  Jumanji (1995) -> Jumanji [tt0113497] 1995
+ok       movie  Independence Day (1996) -> Independence Day [tt0116629] 1996
+ok       movie  Matilda (1996) -> Matilda [tt0117008] 1996
+ok       movie  James and the Giant Peach (1996) -> James and the Giant Peach [tt0116683] 1996
+ok       movie  Men in Black (1997) -> Men in Black [tt0119654] 1997
+ok       movie  Titanic (1997) -> Titanic [tt0120338] 1997
+ok       movie  Small Soldiers (1998) -> Small Soldiers [tt0122718] 1998
+ok       movie  Pokémon: The First Movie (1998) -> Pokémon: The First Movie - Mewtwo Strikes Back [tt0190641] 1999
+ok       movie  The Matrix (1999) -> The Matrix [tt0133093] 1999
+ok       movie  The Mummy (1999) -> The Mummy [tt0120616] 1999
+ok       movie  The Iron Giant (1999) -> The Iron Giant [tt0129167] 1999
+ok       movie  Galaxy Quest (1999) -> Galaxy Quest [tt0177789] 1999
+ok       movie  Gladiator (2000) -> Gladiator [tt0172495] 2000
+ok       movie  Shrek (2001) -> Shrek [tt0126029] 2001
+ok       movie  Monsters, Inc. (2001) -> Monsters, Inc. [tt0198781] 2001
+CHECK    movie  Spirited Away (2001) -> Spirited Away [tt0245429] 2003
+ok       movie  The Lord of the Rings: The Fellowship of the Ring (2001) -> The Lord of the Rings: The Fellowship of the Ring [tt0120737] 2001
+ok       movie  The Lord of the Rings: The Two Towers (2002) -> The Lord of the Rings: The Two Towers [tt0167261] 2002
+ok       movie  The Lord of the Rings: The Return of the King (2003) -> The Lord of the Rings: The Return of the King [tt0167260] 2003
+ok       movie  Ice Age (2002) -> Ice Age [tt0268380] 2002
+ok       movie  Lilo & Stitch (2002) -> Lilo & Stitch [tt0275847] 2002
+ok       movie  The Count of Monte Cristo (2002) -> The Count of Monte Cristo [tt0245844] 2002
+ok       movie  Finding Nemo (2003) -> Finding Nemo [tt0266543] 2003
+ok       movie  Holes (2003) -> Holes [tt0311289] 2003
+ok       movie  Pirates of the Caribbean: The Curse of the Black Pearl (2003) -> Pirates of the Caribbean: The Curse of the Black Pearl [tt0325980] 2003
+ok       movie  The Incredibles (2004) -> The Incredibles [tt0317705] 2004
+ok       movie  Hellboy (2004) -> Hellboy [tt0167190] 2004
+ok       movie  Sky Captain and the World of Tomorrow (2004) -> Sky Captain and the World of Tomorrow [tt0346156] 2004
+ok       movie  The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) -> The Chronicles of Narnia: The Lion, the Witch and the Wardrobe [tt0363771] 2005
+ok       movie  Back to the Future (1985) -> Back to the Future [tt0088763] 1985
+ok       movie  Ghostbusters (1984) -> Ghostbusters [tt0087332] 1984
+ok       movie  The Karate Kid (1984) -> The Karate Kid [tt0087538] 1984
+ok       movie  Monty Python and the Holy Grail (1975) -> Monty Python and the Holy Grail [tt0071853] 1975
+ok       series El Chavo del Ocho (1973) -> El Chavo [tt0229889] 1972
+ok       series El Chapulín Colorado (1973) -> El Chapulín Colorado [tt0229888] 1973
+ok       series Fawlty Towers (1975) -> Fawlty Towers [tt0072500] 1975
+ok       series Saint Seiya (1986) -> Saint Seiya [tt0161952] 1986
+ok       series The Simpsons (1989) -> The Simpsons [tt0096697] 1989
+ok       series Mr. Bean (1990) -> Mr. Bean [tt0096657] 1990
+ok       series The Fresh Prince of Bel-Air (1990) -> The Fresh Prince of Bel-Air [tt0098800] 1990
+ok       series Are You Afraid of the Dark? (1990) -> Are You Afraid of the Dark? [tt0103352] 1990
+ok       series Rugrats (1991) -> Rugrats [tt0101188] 1991
+ok       series Home Improvement (1991) -> Home Improvement [tt0101120] 1991
+ok       series Batman: The Animated Series (1992) -> Batman: The Animated Series [tt0103359] 1992
+ok       series X-Men: The Animated Series (1992) -> Batman: The Animated Series [tt0103359] 1992
+ok       series Sailor Moon (1992) -> Sailor Moon [tt0103369] 1992
+ok       series Animaniacs (1993) -> Animaniacs [tt0105941] 1993
+ok       series Boy Meets World (1993) -> Boy Meets World [tt0105958] 1993
+ok       series Bill Nye the Science Guy (1993) -> Bill Nye the Science Guy [tt0173528] 1993
+ok       series Gargoyles (1994) -> Gargoyles [tt0108783] 1994
+ok       series The Magic School Bus (1994) -> The Magic School Bus [tt0108847] 1994
+ok       series Pinky and the Brain (1995) -> Pinky and the Brain [tt0112123] 1995
+ok       series Wishbone (1995) -> Wishbone [tt0112225] 1995
+ok       series Dexter's Laboratory (1996) -> Dexter's Laboratory [tt0115157] 1996
+ok       series Hey Arnold! (1996) -> Hey Arnold! [tt0115200] 1996
+ok       series Beast Wars: Transformers (1996) -> Beast Wars: Transformers [tt0115108] 1996
+ok       series The Crocodile Hunter (1996) -> The Crocodile Hunter [tt0229119] 1996
+ok       series Pokémon (1997) -> Pokémon [tt0168366] 1997
+override series Recess (1997) -> Recess [tt0126170] 
+ok       series Whose Line Is It Anyway? (1998) -> Whose Line Is It Anyway? [tt0163507] 1998
+ok       series Courage the Cowardly Dog (1999) -> Courage the Cowardly Dog [tt0220880] 1999
+ok       series Ed, Edd n Eddy (1999) -> Ed, Edd n Eddy [tt0184111] 1999
+ok       series SpongeBob SquarePants (1999) -> SpongeBob SquarePants [tt0206512] 1999
+ok       series Batman Beyond (1999) -> Batman Beyond [tt0147746] 1999
+ok       series Malcolm in the Middle (2000) -> Malcolm in the Middle [tt0212671] 2000
+ok       series Even Stevens (2000) -> Even Stevens [tt0206511] 2000
+ok       series The Fairly OddParents (2001) -> The Fairly OddParents [tt0235918] 2001
+ok       series Samurai Jack (2001) -> Samurai Jack [tt0278238] 2001
+ok       series Kim Possible (2002) -> Kim Possible [tt0278866] 2002
+ok       series MythBusters (2003) -> MythBusters [tt0383126] 2003
+ok       series Red vs. Blue (2003) -> Red vs. Blue [tt0401747] 2003
+ok       series Avatar: The Last Airbender (2005) -> Avatar: The Last Airbender [tt0417299] 2005
+ok       series The Guild (2007) -> The Guild [tt1138475] 2007
+ok       series Dragon Ball Z Kai (2009) -> Dragon Ball Z Kai [tt1409055] 2009
+CHECK    movie  Nausicaä of the Valley of the Wind (1984) -> Nausicaä of the Valley of the Wind [tt0087544] 1987
+override movie  Castle in the Sky (1986) -> Castle in the Sky [tt0092067] 
+ok       movie  The Princess Bride (1987) -> The Princess Bride [tt0093779] 1987
+ok       movie  The Rocketeer (1991) -> The Rocketeer [tt0102803] 1991
+CHECK    movie  Porco Rosso (1992) -> Porco Rosso [tt0104652] 1994
+ok       movie  Atlantis: The Lost Empire (2001) -> Atlantis: The Lost Empire [tt0230011] 2001
+ok       movie  Treasure Planet (2002) -> Treasure Planet [tt0133240] 2002
+ok       movie  Master and Commander: The Far Side of the World (2003) -> Master and Commander: The Far Side of the World [tt0311113] 2003
+ok       movie  Big Fish (2003) -> Big Fish [tt0319061] 2003
+ok       movie  Howl's Moving Castle (2004) -> Howl's Moving Castle [tt0347149] 2005
+ok       movie  Kingdom of Heaven (2005) -> Kingdom of Heaven [tt0320661] 2005
+ok       movie  Pan's Labyrinth (2006) -> Pan's Labyrinth [tt0457430] 2007
+ok       movie  The Fall (2006) -> Before the Fall [tt0384369] 2005
+ok       movie  Stardust (2007) -> Stardust [tt0486655] 2007
+override movie  Hellboy II: The Golden Army (2008) -> Hellboy II: The Golden Army [tt0411477] 
+ok       movie  How to Train Your Dragon (2010) -> How to Train Your Dragon [tt0892769] 2010
+ok       movie  Hugo (2011) -> Hugo [tt0970179] 2011
+ok       movie  Edge of Tomorrow (2014) -> Edge of Tomorrow [tt1631867] 2014
+ok       movie  The Book of Life (2014) -> The Book of Life [tt2262227] 2014
+ok       movie  Kubo and the Two Strings (2016) -> Kubo and the Two Strings [tt4302938] 2016
+ok       movie  Coco (2017) -> Coco [tt2380307] 2017
+ok       movie  Spider-Man: Into the Spider-Verse (2018) -> Spider-Man: Into the Spider-Verse [tt4633694] 2018
+ok       movie  Wolfwalkers (2020) -> Wolfwalkers [tt5198068] 2020
+ok       movie  The Green Knight (2021) -> The Green Knight [tt9243804] 2021
+ok       movie  The Mitchells vs. the Machines (2021) -> The Mitchells vs. the Machines [tt7979580] 2021
+ok       movie  Guillermo del Toro's Pinocchio (2022) -> Guillermo del Toro's Pinocchio [tt1488589] 2022
+ok       movie  Top Gun: Maverick (2022) -> Top Gun: Maverick [tt1745960] 2022
+ok       movie  Dungeons & Dragons: Honor Among Thieves (2023) -> Dungeons & Dragons: Honor Among Thieves [tt2906216] 2023
+ok       series Blackadder II (1986) -> Blackadder II [tt0088484] 1986
+ok       series Red Dwarf (1988) -> Red Dwarf [tt0094535] 1988
+ok       series Freaks and Geeks (1999) -> Freaks and Geeks [tt0193676] 1999
+ok       series Doctor Who (2005) -> Doctor Who [tt0436992] 2005
+ok       series The IT Crowd (2006) -> The IT Crowd [tt0487831] 2006
+ok       series Planet Earth (2006) -> Planet Earth [tt0795176] 2006
+ok       series Merlin (2008) -> Merlin [tt1199099] 2008
+ok       series Community (2009) -> Community [tt1439629] 2009
+ok       series The Legend of Korra (2012) -> The Legend of Korra [tt1695360] 2012
+ok       series Gravity Falls (2012) -> Gravity Falls [tt1865718] 2012
+ok       series Over the Garden Wall (2014) -> Over the Garden Wall [tt3718778] 2014
+ok       series Detectorists (2014) -> Detectorists [tt4082744] 2014
+ok       series Taskmaster (2015) -> Taskmaster [tt4934214] 2015
+ok       series The Expanse (2015) -> The Expanse [tt3230854] 2015
+ok       series Castlevania (2017) -> Castlevania [tt6517102] 2017
+ok       series Hilda (2018) -> Hilda [tt6385540] 2018
+ok       series The Dragon Prince (2018) -> The Dragon Prince [tt8688814] 2018
+ok       series Mythic Quest (2020) -> Mythic Quest [tt8879940] 2020
+ok       series Arcane (2021) -> Arcane [tt11126994] 2021
+ok       series Blue Eye Samurai (2023) -> Blue Eye Samurai [tt13309742] 2023
+ok       series Frieren: Beyond Journey's End (2023) -> Frieren: Beyond Journey's End Original Mini-Anime - Magic of ?? [tt34754926] 2023
+ok       series Delicious in Dungeon (2024) -> Delicious in Dungeon [tt21621494] 2024
+ok       series Fallout (2024) -> Fallout [tt12637874] 2024
